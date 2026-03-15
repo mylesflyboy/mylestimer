@@ -1,0 +1,71 @@
+# Bug Report Guide
+
+If you encounter a bug while using **TimerPlugin**, please report it so it can be fixed as quickly as possible.
+
+## Before Reporting
+
+Please make sure to check the following first:
+
+* You are running a **supported server version** (Purpur / Paper / Spigot 1.21+)
+* The plugin is updated to the **latest version**
+* The issue is not caused by another plugin
+
+## How to Report a Bug
+
+Send an email with the required information to:
+
+**[admin@hedgecraft.net](mailto:admin@hedgecraft.net)**
+
+Please include the following details in your report:
+
+### 1. Server Information
+
+* Minecraft server software (Purpur / Paper / Spigot)
+* Server version
+* Java version
+* TimerPlugin version
+
+Example:
+
+```
+Server: Purpur 1.21.11
+Java: 21
+Plugin Version: 1.0.2
+```
+
+### 2. Description of the Bug
+
+Explain clearly what happened.
+
+Example:
+
+```
+The timer stops updating after using /timer resume.
+```
+
+### 3. Steps to Reproduce
+
+Describe how the bug can be reproduced.
+
+Example:
+
+```
+1. Start the timer using /timer up
+2. Use /timer stop
+3. Use /timer resume
+4. The timer no longer updates
+```
+
+### 4. Console Errors (if available)
+
+If your server console shows an error, please copy and include the full error message.
+
+### 5. Screenshots (optional)
+
+Screenshots or short videos can help identify the problem faster.
+
+## Response Time
+
+Bug reports are usually reviewed as soon as possible. Fixes may be included in the next plugin update.
+
+Thank you for helping improve TimerPlugin!
