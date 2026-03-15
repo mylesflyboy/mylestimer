@@ -1,0 +1,11 @@
+name: TimerPlugin
+version: 1.0.2
+main: com.myles.timer.Main
+api-version: "1.21"
+author: Myles
+
+commands:
+  timer:
+    description: Timer Commands
+    usage: /timer <up|down|stop|resume|reset|reload>
+    aliases: [t]
